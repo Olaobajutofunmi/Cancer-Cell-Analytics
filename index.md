@@ -61,7 +61,7 @@ These changes suggest mechanisms like:
 I’m a recent biotech graduate passionate about cancer biology, gene expression, and data science.  
 I'm now seeking opportunities where I can apply these skills in **R&D, molecular diagnostics, or biotech analytics**.
 
-📫 Reach me at: [your.email@example.com]  
+📫 Reach me at: olaobajun@yahoo.com  
 🔗 [LinkedIn](linkedin.com/in/noah-olaobaju-603500bb)  
 🐙 [GitHub](https://github.com/Olaobajutofunmi)
 
