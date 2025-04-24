@@ -1,4 +1,16 @@
-title: Cancer Cell Line Drug Resistance Analysis
-description: Final academic project for Advanced Diploma in Biotechnology – Transcriptomic analysis of drug-resistant breast cancer cell lines.
+# _config.yml (updated)
+title: 🧬 Cancer Cell Line Drug Resistance Analysis
+description: Transcriptomic analysis of drug-resistant breast cancer cell lines | Advanced Diploma in Biotechnology Final Project
 theme: jekyll-theme-cayman
 markdown: kramdown
+plugins:
+  - jekyll-feed
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Custom styling
+header:
+  overlay_color: "#5e0e0e"  # Deep red for cancer research theme
+  overlay_filter: "0.5"
+  actions:
+    - label: "View Analysis Report"
+      url: "/analysis_report.md"
