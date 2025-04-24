@@ -50,6 +50,13 @@ Resistance appears driven by multiple biological mechanisms including:
 
 Cross-resistance patterns suggest some shared pathways in resistance evolution.
 
+## 🔥 Volcano Plot
+
+Here’s a simulated volcano plot highlighting key up- and down-regulated genes:
+
+![Volcano Plot](figures/volcanoPlt.png)
+
+
 ---
 
 ## 🧪 Conclusion
