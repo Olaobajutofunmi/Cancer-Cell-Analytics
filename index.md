@@ -27,7 +27,6 @@ layout: default
 <div class="project-card">
   <h1><span class="icon-header">🧬</span> Cancer Cell Line Drug Resistance Analysis</h1>
   <p>
-    Welcome to my final academic project for the <strong>Advanced Diploma in Biotechnology</strong>.<br>
     This work focuses on analyzing gene expression data from breast cancer cell lines that developed resistance to chemotherapeutic drugs.
   </p>
   <img src="https://via.placeholder.com/800x400.png?text=Drug+Resistance+Analysis+Visualization" alt="Visualization">
